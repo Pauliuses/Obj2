@@ -34,3 +34,12 @@
 | 100000 | 0.371513 | 0.349569 |
 | 1000000 | 2.70555 | 2.69782 |
 | 10000000 | 26.5577 | 27.5652 |
+
+## Programa kompiliuojama naudojant skirtingus _flag'us_ ir 1000000 duomenų
+| **Veiksmas** | **-O1** | **-O2** | **-O3** |
+| ------------ | ------- | ------- | ------- |
+| **Failo nuskaitymas** | 4.51754 | 4.53319 | 4.44723 |
+| **Studentų skirstymas į vektorius** | 2.58681 | 2.58596 | 2.54894 |
+| **Šaunuolių surašymas į failą** | 2.65565 | 2.67212 | 2.68165 |
+| **Vargšų surašymas į failą** | 2.60927 | 2.63973 | 2.69844 |
+| **Visas programos veikimo laikas** | 12.36927 | 12.431 | 12.37626 |
