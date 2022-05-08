@@ -43,3 +43,10 @@
 | **Šaunuolių surašymas į failą** | 2.65565 | 2.67212 | 2.68165 |
 | **Vargšų surašymas į failą** | 2.60927 | 2.63973 | 2.69844 |
 | **Visas programos veikimo laikas** | 12.36927 | 12.431 | 12.37626 |
+
+# Antra užduotis v1.2 Objektinis programavimas
+
+## Užduoties tikslas
+
+### Realizuota _"Rule of three"_
+### Realizuoti reikiami ir tinkami operatoriai turimai klasei
