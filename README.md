@@ -68,6 +68,7 @@
 
 
 ## Paleidimo instrukcija:
-### Terminale įrašyti _make_
-### Norint paleisti programą į terminalą įrašyti _./prog_
+### 1. Terminale įrašyti _make_
+### 2. Norint paleisti programą į terminalą įrašyti _./prog_
+
 
