@@ -55,5 +55,19 @@
 
 ## Užduoties tikslas
 
-### Vietoje turimos klases sukurti dvi: bazinę, skirtą bendrai aprašyti žmogų ir tada jos išvestinę.
-### Žmogui skirta bazinė klasė būtų abstrakčioji
+### Vietoje turimos klases sukurtos dvi: bazinė, skirtą bendrai aprašyti žmogų ir tada jos išvestinė.
+### Žmogui skirta bazinė klasė yra abstrakčioji
+
+# Ketvirta užduotis v2.0 Objektinis programavimas
+
+## Užduoties tikslas
+
+### Sukurta dokumentacija panaudojant _Doxygen_ 1.5 pagrindu
+### Realizuoti Unit Testai naudojant _Catch_
+### Sukurtas _prog.exe_ įdiegimo failas
+
+
+## Paleidimo instrukcija:
+### Terminale įrašyti _make_
+### Norint paleisti programą į terminalą įrašyti _./prog_
+
