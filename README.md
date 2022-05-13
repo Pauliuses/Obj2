@@ -50,3 +50,10 @@
 
 ### Realizuota _"Rule of three"_
 ### Realizuoti reikiami ir tinkami operatoriai turimai klasei
+
+# Trečia užduotis v1.5 Objektinis programavimas
+
+## Užduoties tikslas
+
+### Vietoje turimos klases sukurti dvi: bazinę, skirtą bendrai aprašyti žmogų ir tada jos išvestinę.
+### Žmogui skirta bazinė klasė būtų abstrakčioji
