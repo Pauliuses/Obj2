@@ -68,7 +68,8 @@
 
 
 ## Paleidimo instrukcija:
-### 1. Terminale įrašyti _make_
-### 2. Norint paleisti programą į terminalą įrašyti _./prog_
+###  Parsisiųsti ir įsidiegti C++ kompiliatorių
+###  Susikompiliuoti programą terminale įrašant _make_
+###  Norint paleisti programą į terminalą įrašyti _./prog_
 
 
