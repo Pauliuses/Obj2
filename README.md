@@ -58,7 +58,7 @@
 ### Vietoje turimos klases sukurtos dvi: bazinė, skirtą bendrai aprašyti žmogų ir tada jos išvestinė.
 ### Žmogui skirta bazinė klasė yra abstrakčioji
 
-# Ketvirta užduotis v2.0 Objektinis programavimas
+# Ketvirta užduotis v2.0 Objektinis programavimas. **Nebaigta iki galo**
 
 ## Užduoties tikslas
 
